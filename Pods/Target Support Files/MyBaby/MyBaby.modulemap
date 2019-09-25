@@ -1,0 +1,6 @@
+framework module MyBaby {
+  umbrella header "MyBaby-umbrella.h"
+
+  export *
+  module * { export * }
+}
